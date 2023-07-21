@@ -1,7 +1,7 @@
-# Página de Receitas
+<h1 align="center"> Página de Receitas </h1>
 
 <p align="center">
-  Nesse desafio você deverá criar uma página web de uma receita com título, imagem, lista de ingredientes e modo de preparo.
+  Uma página web de uma receita com título, imagem, lista de ingredientes e modo de preparo.
 </p>
 
 <p align="center">
@@ -30,7 +30,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Uma página web de uma receita com título, imagem, lista de ingredientes e modo de preparo. Dê uma olhada no projeto [aqui](https://matheusfdosan.github.io/desafio-pagina-receitas-rocketseat/).
+Uma página web de uma receita com título, imagem, lista de ingredientes e modo de preparo. Dê uma olhada no projeto [aqui](https://matheusfdosan.github.io/pagina-receitas/).
 
 ## 🔖 Layout
 
